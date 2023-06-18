@@ -16,6 +16,7 @@
   },
   "resolutions": {
     "//": "https://github.com/babel/babel/issues/15655",
+    "@babel/core": "^7.22.1",
     "@babel/preset-env": "7.22.1"
   },
   "scripts": {
